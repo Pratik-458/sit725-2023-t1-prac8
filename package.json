@@ -1,5 +1,5 @@
 {
-  "name": "prac7",
+  "name": "prac8",
   "version": "1.0.0",
   "description": "intro to materialise components",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Pratik-458/sit725-2023-t1-prac7.git"
+    "url": "git+https://github.com/Pratik-458/sit725-2023-t1-prac8.git"
   },
   "author": "Pratik Pawar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Pratik-458/sit725-2023-t1-prac7/issues"
+    "url": "https://github.com/Pratik-458/sit725-2023-t1-prac8/issues"
   },
-  "homepage": "https://github.com/Pratik-458/sit725-2023-t1-prac7#readme",
+  "homepage": "https://github.com/Pratik-458/sit725-2023-t1-prac8#readme",
   "dependencies": {
     "chai": "^4.3.7",
     "express": "^4.18.2",
